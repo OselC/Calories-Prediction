@@ -1,5 +1,4 @@
-# Calories-Prediction
-# 🔥 Calories Burned Prediction App
+# Calories Prediction App
 
 A machine learning–powered web application built with **Streamlit** to predict the number of calories burned during physical activity based on physiological features.
 The model is trained using a **Linear Regression pipeline** with proper preprocessing:
