@@ -3,7 +3,7 @@
 
 A machine learning–powered web application built with **Streamlit** to predict the number of calories burned during physical activity based on physiological features.
 
-## 📊 Dataset
+# 📊 Dataset
 Kaggle: https://www.kaggle.com/datasets/ruchikakumbhar/calories-burnt-prediction
 
 The model is trained using a **Linear Regression pipeline** with proper preprocessing:
