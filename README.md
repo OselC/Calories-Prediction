@@ -2,14 +2,13 @@
 # 🔥 Calories Burned Prediction App
 
 A machine learning–powered web application built with **Streamlit** to predict the number of calories burned during physical activity based on physiological features.
-
-# 📊 Dataset
-Kaggle: https://www.kaggle.com/datasets/ruchikakumbhar/calories-burnt-prediction
-
 The model is trained using a **Linear Regression pipeline** with proper preprocessing:
 - Numerical features are standardized using `StandardScaler`
 - Categorical features (e.g., Gender) are encoded using `OneHotEncoder`
 - A `ColumnTransformer` ensures consistent data transformation during training and inference
+
+## 📊 Dataset
+Kaggle: https://www.kaggle.com/datasets/ruchikakumbhar/calories-burnt-prediction
 
 ## ✨ Features
 - Predict calories burned from:
