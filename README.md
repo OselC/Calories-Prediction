@@ -6,6 +6,8 @@ The model is trained using a **Linear Regression pipeline** with proper preproce
 - Categorical features (e.g., Gender) are encoded using `OneHotEncoder`
 - A `ColumnTransformer` ensures consistent data transformation during training and inference
 
+Streamlit: https://calories-prediction-jmukbkpuqgrgzzrxwsv6rq.streamlit.app/
+
 ## 📊 Dataset
 Kaggle: https://www.kaggle.com/datasets/ruchikakumbhar/calories-burnt-prediction
 
